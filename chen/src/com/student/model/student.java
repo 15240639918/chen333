@@ -2,8 +2,8 @@ package com.student.model;
 
 public class student {
 
-	private int id;
-	private String username;
+	private int id;   //sbxiaoke
+	private String username;  //sbxiaoke
 	private String password;
 	private int sex;
 	private String love;
